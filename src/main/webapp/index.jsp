@@ -11,6 +11,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
         <h1 style="color: green; font-size: 40px;" align="center">MY NAME IS VIJAY RAMA KRISHNA</h1>
+        <h1 style="color: pink; font-size: 40px;" align="center">IAM LEARNING DEVOPS NOW</h1>
 	
 	
 	
