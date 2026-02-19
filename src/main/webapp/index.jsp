@@ -10,7 +10,7 @@
 
 <h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION with the great legendry vijay ram krishna</h1>
 
-<h1> Hello Mastaru </h1>
+    <h1> Hello Mastaru chandhu kuna </h1>
 
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
@@ -19,7 +19,9 @@
         <h1 style="color: green; font-size: 40px;" align="center">frontlines media is a good platform to learn devops</h1>
         <h1 style="color: green; font-size: 40px;" align="center">i successfully completed deploying to tomcat</h1>
         <h1 style="color: red; font-size: 40px;" align="center">completed deployment using declarative pipeline</h1>
-        <h1 style="color: green; font-size: 40px;" align="center">i learned jenkins declarative pipeline</h1>
+        <h1 style="color: green; font-size: 40px;" align="center">i learned jenkins declarative pipeline</h1
+       <h1 style="color: green; font-size: 40px;" align="center"> Git, linux, jenkins done till now
+</h1>
 	
 	
 	
