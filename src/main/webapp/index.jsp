@@ -10,7 +10,7 @@
 
 <h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION with the great legendry vijay ram krishna</h1>
 
-    <h1> Hello Mastaru chandhu kuna </h1>
+    <h1>Adding new version fo the application  </h1>
 
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
